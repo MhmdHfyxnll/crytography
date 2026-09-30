@@ -1,0 +1,2 @@
+# Caesar Cipher menggunakan Tkinter.
+# Tkinter merupakan library GUI Python dan biasanya disediakan oleh paket sistem python3-tk.

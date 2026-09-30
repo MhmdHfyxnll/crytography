@@ -1,0 +1,2 @@
+# Columnar Transposition Cipher menggunakan Tkinter.
+# Tkinter disediakan oleh paket sistem python3-tk pada Linux Mint.
